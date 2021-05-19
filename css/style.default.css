@@ -187,7 +187,7 @@ INTRO
 }
 @media (max-width: 767px) {
   #intro .item .logo {
-    margin-bottom: 50px;
+    margin-bottom: 20px;
   }
 }
 #intro .item h1 {
@@ -236,7 +236,7 @@ INTRO
 }
 #intro .container,
 #intro .row {
-  height: 100%;
+  height: 100vh;
   position: relative;
 }
 /*
